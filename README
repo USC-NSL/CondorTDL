@@ -1,0 +1,17 @@
+These are examples of Condor Topology Description Language (TDL) files,
+used as illustrations for this paper:
+
+"Condor: Better Topologies through Declarative Design"
+Brandon Schlinker (USC, Google), Radhika Niranjan Mysore (Google), 
+Sean Smith (Google), Jeffrey C. Mogul (Google), Amin Vahdat (Google), 
+Minlan Yu (USC), Ethan Katz-Bassett (USC), Michael Rubin (Google)
+in "Proceedings of SIGCOMM 2015."
+
+These files cannot be executed as-is, and the code for the Condor
+system itself is not available.
+
+This is not an official Google product (experimental or otherwise), 
+it is just code that happens to be owned by Google.
+
+Please contact Brandon Schlinker (bschlink@usc.edu) for more information
+about Condor.
